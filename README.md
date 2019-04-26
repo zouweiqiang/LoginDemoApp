@@ -31,3 +31,7 @@
 mUserName = editText.getText();
 mPassword = editText.getText();
 ```
+
+## 作业提交方式
+
+请Fork本库，并请使用Pull Request方式进行作业提交
