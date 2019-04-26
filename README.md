@@ -1,6 +1,6 @@
 # LoginDemoApp
 
-利用MVC模式，实现以下App，App受界面具有
+利用MVC模式，实现以下App，App首界面具有
 
 * 用户名框
 * 密码框
