@@ -21,3 +21,13 @@
 
 <img src="https://github.com/frtmobileapp/LoginDemoApp/blob/master/Login_2.png?raw=true" />
 
+## 你可能用到的相关方法
+
+```
+<EditText />
+```
+
+```
+mUserName = editText.getText();
+mPassword = editText.getText();
+```
